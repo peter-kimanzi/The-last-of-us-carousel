@@ -5,6 +5,7 @@ The last of us carousel using JavaScript
 ## Technologies used
 
 * HTML
+* CSS
 
 
 ## Screenshots
