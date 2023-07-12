@@ -2,6 +2,8 @@
 
 The last of us carousel using JavaScript
 
+## Technologies used
+
 
 ## Screenshots
 
