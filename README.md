@@ -2,6 +2,8 @@
 
 The last of us carousel using JavaScript
 
+## Live Link
+
 ## Technologies used
 
 * HTML
