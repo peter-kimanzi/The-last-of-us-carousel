@@ -4,6 +4,7 @@ The last of us carousel using JavaScript
 
 ## Live Link
 
+https://peter-kimanzi.github.io/The-last-of-us-carousel/
 ## Technologies used
 
 * HTML
