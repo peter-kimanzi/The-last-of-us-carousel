@@ -1,6 +1,6 @@
 # The-last-of-us-carousel
 
-The last of us carousel using JavaScript
+The last of us carousel using JavaScript.
 
 ## Live Link
 
